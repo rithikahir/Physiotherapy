@@ -1,2 +1,0 @@
-# Physiotherapy
-Physiotherapy Clinic
